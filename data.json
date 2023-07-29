@@ -1,0 +1,78 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "125 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "100 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "125 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "100 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/15251965/pexels-photo-15251965/free-photo-of-kafein-kopi-minuman-kopi-hitam.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Black Robusta",
+            "size": "100 Gram",
+            "harga": "125.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://aromarasa.com/wp-content/uploads/2021/04/cara-membuat-es-campur-spesial-enak-tanpa-ribet.jpg",
+            "nama": "Es Campur",
+            "size": "100 Gram",
+            "harga": "90.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://www.sasa.co.id/medias/page_medias/es_cendol_nangka.jpg",
+            "nama": "Es Cendol",
+            "size": "100 Gram",
+            "harga": "90.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/6259283/pexels-photo-6259283.jpeg",
+            "nama": "Frozen Hot Chocolate",
+            "size": "72 Gram",
+            "harga": "90.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://images.pexels.com/photos/2161643/pexels-photo-2161643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "nama": "Ice Cream",
+            "size": "90 Gram",
+            "harga": "90.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        }
+    ]
+}
